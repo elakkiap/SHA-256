@@ -1,1 +1,1 @@
-simplified_sha256_1.sv : 154MHz, 179 cycles
+simplified_sha256_1.sv : 154MHz, 179 cycles - w/o pipelining
